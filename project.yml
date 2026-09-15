@@ -1,6 +1,7 @@
 name: UySimulyatori
 options:
   bundleIdPrefix: uz.uysimulyatori
+  xcodeVersion: "15.4"
 targets:
   UySimulyatori:
     type: application
